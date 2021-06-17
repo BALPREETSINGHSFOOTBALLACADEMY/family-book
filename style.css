@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    
+  }
+  #album{
+    width:450px;
+    border-width:10px;
+    border-style:double;
+    padding:10px;
+    
+  }
